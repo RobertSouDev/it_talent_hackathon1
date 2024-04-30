@@ -72,12 +72,3 @@ $ docker compose down -v
 ```
 
 
-Prints:
-
-![Image 1](.github/image-1.png)
-![Image 2](.github/image-2.png)
-![Image 3](.github/image-3.png)
-![Image 4](.github/image-4.png)
-![Image 5](.github/image-5.png)
-![Image 6](.github/image-6.png)
-![Image 7](.github/image-7.png)
